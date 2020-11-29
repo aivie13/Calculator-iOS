@@ -37,6 +37,7 @@
 /* Begin PBXFileReference section */
 		9304BC9A25743F7D007347A9 /* calculator2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = calculator2; sourceTree = "<group>"; };
 		9304BC9B25743FB9007347A9 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		9304BCA0257440BE007347A9 /* execution.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = execution.png; sourceTree = "<group>"; };
 		9309FEE02573696000E721ED /* calculator2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculator2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9309FEE32573696000E721ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9309FEE52573696000E721ED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				9304BC9B25743FB9007347A9 /* readme.md */,
+				9304BCA0257440BE007347A9 /* execution.png */,
 				9309FEE22573696000E721ED /* calculator2 */,
 				9304BC9A25743F7D007347A9 /* calculator2 */,
 				9309FEF92573696300E721ED /* calculator2Tests */,
